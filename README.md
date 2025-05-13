@@ -1,4 +1,4 @@
-# SSIS Learning Series – Project 1: State Payment Summary Automation
+# SSIS Learning Series – State Payment Summary Automation
 
 ## Overview
 
