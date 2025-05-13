@@ -24,8 +24,8 @@ Automate the extraction of payment data from a CSV file, perform necessary trans
 
 ## Screenshots and Diagrams
 
-![State Payment Summary](screenshots/State.png)
 ![ETL Process](screenshots/DataFlow.png)
+![State Payment Summary](screenshots/State.png)
 
 ## Files:
 - **SSIS_Package**: Contains the SSIS package file (`.dtsx`) for automating state payment data processing.
