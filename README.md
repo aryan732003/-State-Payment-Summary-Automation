@@ -24,7 +24,7 @@ Automate the extraction of payment data from a CSV file, perform necessary trans
 
 ## Screenshots and Diagrams
 
-![State Payment Summary](screenshots/StatePaymentSummary.png)
+![State Payment Summary](screenshots/State.png)
 ![ETL Process](screenshots/DataFlow.png)
 
 ## Files:
